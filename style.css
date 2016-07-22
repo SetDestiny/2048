@@ -1,0 +1,17 @@
+body {
+    background-color: #F5F5F5;
+}
+.container {
+    margin: auto;
+    width: 800px;
+    border: 3px solid silver;
+    background-color: silver;
+    padding: 10px;
+}
+#newGameButton {
+    align="left";
+    float: right;
+}
+#moveCount {
+    align="right";
+}
